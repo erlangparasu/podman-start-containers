@@ -41,3 +41,7 @@ chmod +x *.sh
 
 ## Logging
 Several scripts log their activities to specific log files in the user's home directory (e.g., `podman_always_restart_monitor.log`, `podman_container_monitor.log`), making it easier to audit automatic restarts and failures.
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
